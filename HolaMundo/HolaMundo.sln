@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones1Demos", "..\Exc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones2Demos", "..\Excepciones2Demos\Excepciones2Demos.csproj", "{70DA4363-DC84-4B06-8355-198FB12213DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesDemo1", "..\ClasesDemo1\ClasesDemo1.csproj", "{2A056DA7-08C5-4539-9206-0785C7B4C0EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAEST", "..\TAEST\TAEST.csproj", "{634EFB65-3FFC-4B4B-B42B-249184125CE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{70DA4363-DC84-4B06-8355-198FB12213DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70DA4363-DC84-4B06-8355-198FB12213DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70DA4363-DC84-4B06-8355-198FB12213DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A056DA7-08C5-4539-9206-0785C7B4C0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A056DA7-08C5-4539-9206-0785C7B4C0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A056DA7-08C5-4539-9206-0785C7B4C0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A056DA7-08C5-4539-9206-0785C7B4C0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634EFB65-3FFC-4B4B-B42B-249184125CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634EFB65-3FFC-4B4B-B42B-249184125CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634EFB65-3FFC-4B4B-B42B-249184125CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634EFB65-3FFC-4B4B-B42B-249184125CE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
