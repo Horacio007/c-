@@ -43,7 +43,8 @@ namespace ClasesDemo1
             Console.WriteLine(objetoAnonimo.area);
 
             Console.WriteLine(Circulo.numeroDeCirculos);
-           
+            
+                
             Console.ReadLine();
 
         }
